@@ -63,12 +63,14 @@ Dance/EDM,Jackin House
 Dance/EDM,Jungle/Drum’n'bass
 Dance/EDM,Techno
 Dance/EDM,Trance
-Easy Listening,Bop
 Easy Listening,Lounge
+Easy Listening,Smooth Jazz
 Easy Listening,Swing
 Electronic,Ambient
+Electronic,Chiptune
 Electronic,Crunk
 Electronic,Downtempo
+Electronic,Dungeon Synth
 Electronic,Electro
 Electronic,Electronica
 Electronic,Electronic Rock
@@ -120,6 +122,7 @@ Jazz,Acid Jazz
 Jazz,Avant-Garde Jazz
 Jazz,Big Band
 Jazz,Blue Note
+Jazz,Bop
 Jazz,Contemporary Jazz
 Jazz,Cool
 Jazz,Crossover Jazz
@@ -130,7 +133,6 @@ Jazz,Hard Bop
 Jazz,Latin Jazz
 Jazz,Mainstream Jazz
 Jazz,Ragtime
-Jazz,Smooth Jazz
 Jazz,Trad Jazz
 Latino,Alternativo & Rock Latino
 Latino,Baladas y Boleros
