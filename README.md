@@ -169,15 +169,17 @@ The starting point for these categories originated from [Music Genres List](http
 
 ### Easy Listening
 
-- Bop
 - Lounge
+- Smooth Jazz
 - Swing
 
 ### Electronic
 
 - Ambient
+- Chiptune
 - Crunk
 - Downtempo
+- Dungeon Synth
 - Electro
 - Electronica
 - Electronic Rock
@@ -244,6 +246,7 @@ The starting point for these categories originated from [Music Genres List](http
 - Avant-Garde Jazz
 - Big Band
 - Blue Note
+- Bop
 - Contemporary Jazz
 - Cool
 - Crossover Jazz
@@ -254,7 +257,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Latin Jazz
 - Mainstream Jazz
 - Ragtime
-- Smooth Jazz
 - Trad Jazz
 
 ### Latino
